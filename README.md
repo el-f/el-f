@@ -6,7 +6,13 @@
   
   [![Codewars](https://www.codewars.com/users/el-f/badges/large)](https://www.codewars.com/users/el-f/stats)
   
-  [![My Skills](https://skillicons.dev/icons?i=java,py,js,ts,kotlin,c,html,css,regex,spring,nest,express,nodejs,react,angular,flask,redux,hibernate,mongo,postgres,mysql,redis,kafka,aws,docker,k8s,linux,bash,maven,postman,cf,&perline=9)](#)
+  [![My Skills](https://skillicons.dev/icons?i=java,py,js,ts,kotlin,c,html,css,regex&perline=9)](#)
+
+  [![My Skills](https://skillicons.dev/icons?i=spring,nest,express,nodejs,react,angular,flask,redux,hibernate,materialui,styledcomponents&perline=9)](#)
+
+  [![My Skills](https://skillicons.dev/icons?i=mongo,postgres,mysql,redis&perline=9)](#)
+
+  [![My Skills](https://skillicons.dev/icons?i=linux,bash,git,docker,k8s,cf,aws,kafka,maven,postman,firebase&perline=9)](#)
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
