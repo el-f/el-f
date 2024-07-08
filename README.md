@@ -9,11 +9,11 @@
   
   [![My Skills](https://skillicons.dev/icons?i=java,py,js,ts,kotlin,c,html,css,regex&perline=9)](#)
 
-  [![My Skills](https://skillicons.dev/icons?i=spring,nest,express,nodejs,react,angular,flask,redux,hibernate,materialui,styledcomponents,emotion&perline=9)](#)
+  [![My Skills](https://skillicons.dev/icons?i=spring,nest,express,nodejs,react,angular,redux,hibernate,materialui,emotion&perline=9)](#)
 
   [![My Skills](https://skillicons.dev/icons?i=mongo,postgres,mysql,redis&perline=9)](#)
 
-  [![My Skills](https://skillicons.dev/icons?i=linux,bash,git,docker,k8s,cf,aws,kafka,maven,postman,firebase&perline=9)](#)
+  [![My Skills](https://skillicons.dev/icons?i=linux,bash,git,docker,k8s,cf,aws,kafka,maven,postman,firebase,grafana,obsidian&perline=9)](#)
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
