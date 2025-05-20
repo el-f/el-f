@@ -13,7 +13,7 @@
 
   [![Skills](https://skills.syvixor.com/api/icons?i=solr,mongo,postgresql,mysql,redis)](#)
 
-  [![Skills](https://skills.syvixor.com/api/icons?i=linux,bash,git,docker,kubernetes,cloudflare,aws,kafka,rabbitmq,maven,postman,firebase,grafana,obsidian&perline=9)](#)
+  [![Skills](https://skills.syvixor.com/api/icons?i=linux,bash,git,docker,kubernetes,bullmq,rabbitmq,kafka,maven,postman,grafana,obsidian,aws,cloudflare,firebase&perline=9)](#)
 
 
 <!--START_SECTION:activity-->
