@@ -11,9 +11,9 @@
 
   [![Skills](https://skills.syvixor.com/api/icons?i=spring,nestjs,express,nodejs,react,angular,hibernate,materialui,emotion,jotai,zustand,reactquery,vite&perline=9)](#)
 
-  [![Skills](https://skills.syvixor.com/api/icons?i=solr,mongo,postgresql,mysql,redis)](#)
+  [![Skills](https://skills.syvixor.com/api/icons?i=solr,mongo,postgresql,mysql,redis,bullmq,rabbitmq,kafka)](#)
 
-  [![Skills](https://skills.syvixor.com/api/icons?i=linux,bash,git,docker,kubernetes,bullmq,rabbitmq,kafka,maven,postman,grafana,obsidian,aws,cloudflare,firebase&perline=9)](#)
+  [![Skills](https://skills.syvixor.com/api/icons?i=linux,bash,git,docker,kubernetes,,maven,postman,grafana,obsidian,aws,cloudflare,firebase&perline=9)](#)
 
 
 <!--START_SECTION:activity-->
