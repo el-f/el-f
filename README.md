@@ -9,11 +9,15 @@
   
   [![Skills](https://skills.syvixor.com/api/icons?i=java,python,js,ts,kotlin,c,html,css,regex)](#)
 
-  [![Skills](https://skills.syvixor.com/api/icons?i=spring,nestjs,express,nodejs,react,angular,hibernate,materialui,emotion,jotai,zustand,reactquery,vite&perline=9)](#)
+  [![Skills](https://skills.syvixor.com/api/icons?i=spring,hibernate,nestjs,express,nodejs,fastapi,langchain,modelcontextprotocol,react,angular,materialui,jotai,zustand,reactquery,vite&perline=8)](#)
 
-  [![Skills](https://skills.syvixor.com/api/icons?i=solr,mongo,postgresql,mysql,redis,bullmq,rabbitmq,kafka)](#)
+  [![Skills](https://skills.syvixor.com/api/icons?i=solr,mongo,postgresql,mysql,redis,bullmq,rabbitmq,kafka,spark,databricks,grpc)](#)
 
-  [![Skills](https://skills.syvixor.com/api/icons?i=linux,bash,git,docker,kubernetes,,maven,postman,grafana,obsidian,aws,cloudflare,firebase&perline=9)](#)
+  [![Skills](https://skills.syvixor.com/api/icons?i=linux,bash,git,docker,kubernetes,helm,argocd,githubactions,maven,postman,obsidian,azure,aws,cloudflare,firebase&perline=8)](#)
+
+  [![Skills](https://skills.syvixor.com/api/icons?i=prometheus,grafana,loki,tempo,otel)](#)
+
+  [![Skills](https://skills.syvixor.com/api/icons?i=junit5,testcontainers,vitest,k6)](#)
 
 
 <!--START_SECTION:activity-->
