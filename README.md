@@ -11,7 +11,7 @@
 
   [![Skills](https://skills.syvixor.com/api/icons?i=spring,hibernate,nestjs,express,nodejs,fastapi,langchain,modelcontextprotocol,react,angular,materialui,jotai,zustand,reactquery,vite&perline=8)](#)
 
-  [![Skills](https://skills.syvixor.com/api/icons?i=solr,mongo,postgresql,mysql,redis,bullmq,rabbitmq,kafka,spark,databricks,grpc)](#)
+  [![Skills](https://skills.syvixor.com/api/icons?i=solr,mongo,postgresql,mysql,redis,bullmq,rabbitmq,kafka,grpc,socketio,spark,databricks)](#)
 
   [![Skills](https://skills.syvixor.com/api/icons?i=linux,bash,git,docker,kubernetes,helm,argocd,githubactions,maven,postman,obsidian,azure,aws,cloudflare,firebase&perline=8)](#)
 
